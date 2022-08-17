@@ -1,1 +1,2 @@
-# EECE7206
+# EECE7205
+Environment: VScode in WSL
