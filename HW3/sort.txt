@@ -1,0 +1,15 @@
+Best
+INSERTIONSORT 	moves: 999	comps: 0
+HEAPSORT 		moves: 29130	comps: 12973
+QUICKSORT 	moves: 3000	comps: 0
+
+Average
+INSERTIONSORT 	moves: 247274	comps: 246275
+HEAPSORT 		moves: 27333	comps: 11746
+QUICKSORT 	moves: 777918	comps: 258314
+
+Worst
+INSERTIONSORT 	moves: 500496	comps: 499497
+HEAPSORT 		moves: 24951	comps: 10340
+QUICKSORT 	moves: 1501500	comps: 499500
+
